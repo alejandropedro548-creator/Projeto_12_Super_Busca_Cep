@@ -1,0 +1,1 @@
+busca cep é uma aplicação em Python com Streamlit que permite consultar CEPs, exibir informações completas do endereço, visualizar a localização em mapa interativo e acompanhar dados climáticos em tempo real. Tudo isso em uma interface moderna inspirada no universo mágico de Aladin.
